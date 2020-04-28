@@ -1,1 +1,4 @@
-index.php1
+<index class="php1">
+
+</index>
+index.php2
